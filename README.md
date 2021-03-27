@@ -1,2 +1,1 @@
-THIS PROYECT HAS BEEN REPLACED BY BITCORE-NODE, AT https://github.com/bitpay/bitcore
-
+Infrastructure to build Bitcoin and blockchain-based applications
